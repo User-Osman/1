@@ -1,0 +1,15 @@
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.csproj.AssemblyReference.cache
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.AssemblyInfoInputs.cache
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.AssemblyInfo.cs
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.csproj.CoreCompileInputs.cache
+F:\GeekBrains\examples\Example005_ConsoleIfelse\bin\Debug\net6.0\Example005_ConsoleIfelse.exe
+F:\GeekBrains\examples\Example005_ConsoleIfelse\bin\Debug\net6.0\Example005_ConsoleIfelse.deps.json
+F:\GeekBrains\examples\Example005_ConsoleIfelse\bin\Debug\net6.0\Example005_ConsoleIfelse.runtimeconfig.json
+F:\GeekBrains\examples\Example005_ConsoleIfelse\bin\Debug\net6.0\Example005_ConsoleIfelse.dll
+F:\GeekBrains\examples\Example005_ConsoleIfelse\bin\Debug\net6.0\Example005_ConsoleIfelse.pdb
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.dll
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\refint\Example005_ConsoleIfelse.dll
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.pdb
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\Example005_ConsoleIfelse.genruntimeconfig.cache
+F:\GeekBrains\examples\Example005_ConsoleIfelse\obj\Debug\net6.0\ref\Example005_ConsoleIfelse.dll

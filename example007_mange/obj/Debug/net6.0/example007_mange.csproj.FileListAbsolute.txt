@@ -1,0 +1,15 @@
+F:\GeekBrains\examples\example007_mange\bin\Debug\net6.0\example007_mange.exe
+F:\GeekBrains\examples\example007_mange\bin\Debug\net6.0\example007_mange.deps.json
+F:\GeekBrains\examples\example007_mange\bin\Debug\net6.0\example007_mange.runtimeconfig.json
+F:\GeekBrains\examples\example007_mange\bin\Debug\net6.0\example007_mange.dll
+F:\GeekBrains\examples\example007_mange\bin\Debug\net6.0\example007_mange.pdb
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.csproj.AssemblyReference.cache
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.AssemblyInfoInputs.cache
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.AssemblyInfo.cs
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.csproj.CoreCompileInputs.cache
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.dll
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\refint\example007_mange.dll
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.pdb
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\example007_mange.genruntimeconfig.cache
+F:\GeekBrains\examples\example007_mange\obj\Debug\net6.0\ref\example007_mange.dll

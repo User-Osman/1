@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\examples\\Example003_Sum\\Example003_Sum.csproj": {}
+    "F:\\GeekBrains\\examples\\Example003_Sum\\Example003_Sum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\examples\\Example003_Sum\\Example003_Sum.csproj": {
+    "F:\\GeekBrains\\examples\\Example003_Sum\\Example003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\examples\\Example003_Sum\\Example003_Sum.csproj",
+        "projectUniqueName": "F:\\GeekBrains\\examples\\Example003_Sum\\Example003_Sum.csproj",
         "projectName": "Example003_Sum",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\examples\\Example003_Sum\\Example003_Sum.csproj",
+        "projectPath": "F:\\GeekBrains\\examples\\Example003_Sum\\Example003_Sum.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\examples\\Example003_Sum\\obj\\",
+        "outputPath": "F:\\GeekBrains\\examples\\Example003_Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\examples\\example006_base\\example006_base.csproj": {}
+    "F:\\GeekBrains\\examples\\example006_base\\example006_base.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\examples\\example006_base\\example006_base.csproj": {
+    "F:\\GeekBrains\\examples\\example006_base\\example006_base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\examples\\example006_base\\example006_base.csproj",
+        "projectUniqueName": "F:\\GeekBrains\\examples\\example006_base\\example006_base.csproj",
         "projectName": "example006_base",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\examples\\example006_base\\example006_base.csproj",
+        "projectPath": "F:\\GeekBrains\\examples\\example006_base\\example006_base.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\examples\\example006_base\\obj\\",
+        "outputPath": "F:\\GeekBrains\\examples\\example006_base\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
